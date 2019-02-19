@@ -1,0 +1,1 @@
+Projeto para estudo api em php usando docker para stack de desenvolvimento
